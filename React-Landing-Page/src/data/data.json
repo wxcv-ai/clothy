@@ -1,0 +1,182 @@
+{
+  "Header": {
+    "title": "We are Clothy",
+    "paragraph": "Empowering businesses to create their own websites with ease and flexibility."
+  },
+  "About": {
+    "paragraph": "At Clothy , we are passionate about empowering businesses to take control of their online presence. Our mission is to provide a user-friendly platform that enables entrepreneurs to effortlessly create their own websites. With our intuitive tools and customizable templates, you can bring your unique vision to life. Join us on this journey of digital empowerment and unlock the potential of your business." ,
+    "Why": [
+      "User-Friendly Interface",
+      "Flexibility and Control",
+      "Time and Cost Efficiency",
+      "Mobile-Optimized"
+    ],
+    "Why2": [
+      "Reliable Hosting and Security",
+      "Integration and Scalability",
+      "Analytics and Insights",
+      "Dedicated Customer Support"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name":  "Website Design",
+      "text": " We help businesses create professional and visually appealing websites that reflect their brand identity and effectively showcase their products or services."
+    },
+
+    {
+      "icon": "fa fa-cloud",
+      "name": "Hosting and Domain Services",
+      "text": "Clothy provides reliable hosting services and helps businesses secure their desired domain name, ensuring that your website is always accessible to visitors."
+    
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Content Management System",
+      "text": "Take control of your website's content with our user-friendly content management system (CMS). Update text, images, and other media effortlessly without any technical knowledge."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Any Where",
+      "text": "Clothy empowers you to sell anywhere, anytime. Our platform ensures your products are accessible to customers, no matter where or when they shop."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Analytics and Reporting",
+      "text": "Gain detailed insights into your stock levels, product history, and distribution. With this powerful tool, you can effortlessly track and manage inventory to ensure optimal stock levels and streamline your product distribution process."
+      
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\" Clothy's UI made website creation a joy. The intuitive interface and customizable options allowed us to design a stunning website that truly represents our brand. \"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Clothy's hosting and domain services provided reliable support. With seamless hosting and a secured domain, our website is always accessible to visitors. \"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Clothy's user-friendly interface transformed our website creation. Intuitive design and easy customization options made building our online presence a breeze.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Impressed with Clothy's time and cost efficiency. We saved valuable resources by creating a professional website within minutes, without the need for developers. \"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\" Clothy revolutionized our supply chain management. Effortless stock tracking, data-driven decisions, improved inventory turnover, and profitability. A game-changer for our apparel business\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Clothy's hosting and domain services provided peace of mind. With reliable hosting and a secure domain, our website remains accessible and protected at all times.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "costumer support",
+      "text": "Experience unparalleled help and support. Our dedicated team is here to assist you, ensuring your success and addressing any queries promptly"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "content management ",
+      "text": "Our intuitive system empowers you to update, organize, and showcase your content seamlessly"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "your team",
+      "text": "We are your dedicated team, committed to delivering exceptional results and supporting your success every step of the way."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "one click",
+      "text": "Experience the magic of our easy UI setup. With just a few clicks, you can effortlessly create stunning websites that captivate your audience."
+    }
+  ]
+}
