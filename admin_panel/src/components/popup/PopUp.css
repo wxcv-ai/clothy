@@ -1,0 +1,113 @@
+
+
+.the_floffy_btn{
+    max-height: 100px;
+}
+.all_images_upload{
+    display: flex;
+}
+.mult_files{
+    margin-top: 5%;
+}
+.ONE_PICTURE_upload{
+    width: 80%;
+    height: 80%;
+}
+.description_section{
+    width: 80%;
+    height: 20vh;
+    margin-bottom: 8%;
+}
+
+.title_section{
+    width: 80%;
+}
+
+
+.all_colors{
+    display: column ;
+    margin-top: 7%;
+}
+.color_name{
+    display: inline;
+    margin: 0px;
+}
+.title_item{
+    margin: 0px;
+    width: 50%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.input{
+    width: 50%;
+    height: 30px;
+}
+.add_size{
+    width: 50%;
+    height: 30px;
+    margin-right: 0px; 
+    margin-left: 0px; 
+}
+.button{
+    height: 30px;
+    margin-top: 24px;
+
+}
+.upper_color_detail{
+    display: flex;
+}
+.item_details{
+    display: flex;
+}
+.the_item_qty{
+    margin-left: 2%;
+}
+.all_items{
+    margin-left: 10%;
+    width: 70%;
+}
+.item_modifications{
+    display: flex;
+}
+
+.popup{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+
+
+    background-color : rgba(0,0,0,0.2);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pop-inner{
+    position: relative;
+    padding : 7%;
+    width: 100%;
+    max-width: 840px;
+    background-color: white;
+
+
+}
+
+.theActualPopup{
+    height: 400px ; 
+    overflow: auto
+}
+.pop-inner .close-btn{
+    position: relative;
+    top: 5%;
+    right: 5%;
+
+    float : right ; 
+
+}
+
+
